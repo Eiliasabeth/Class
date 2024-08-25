@@ -9,6 +9,7 @@ This is the Investment Calculator from project 2 of my CS 210 class. It takes us
 The functionality and readability of this code turned out well.
 
 /*Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?*/
+
 To enhance my code further, adding further input vaildation for more senarios and utilizing the try catch methods. Also futher formatting of my tables would provide for a better user experience. I am certain there is more I could do to improve that I may not have noticed at this time.
 
 /*Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?*/
